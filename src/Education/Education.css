@@ -1,0 +1,32 @@
+.education-container {
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .education-card {
+    background: #fff;
+    padding: 15px;
+    margin: 15px auto;
+    width: 50%;  
+    border-left: 5px solid #4CAF50;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .education-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+  .education-card h2 {
+    margin: 0;
+    font-size: 1.4rem; 
+    color: #333;
+  }
+  
+  .education-card p {
+    color: #555;
+    font-size: 1rem; 
+    margin-top: 5px;
+  }
+  

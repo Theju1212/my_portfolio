@@ -1,0 +1,81 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #1b1b3a, #602080);
+  background-attachment: fixed;
+  background-size: cover;
+  color: #fff;
+}
+
+
+.app-container {
+  min-height: 100vh;
+}
+
+
+header {
+  background: linear-gradient(90deg, #f7e600, #f7d600);
+  padding: 20px;
+  text-align: center;
+  border-bottom: 5px solid #7f00ff;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+  border-radius: 0 0 30px 30px;
+}
+
+header h1 {
+  font-size: 3rem;
+  color: red;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+header p {
+  margin-top: 10px;
+  font-size: 1.3rem;
+  color: #2e1a47;
+}
+
+
+nav {
+  background: linear-gradient(90deg, #00c9ff, #92fe9d);
+  padding: 15px;
+  text-align: center;
+  border-radius: 12px;
+  margin: 20px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.6);
+}
+
+
+nav a {
+  color: #fff;
+  margin: 0 18px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.2rem;
+  padding: 10px 25px;
+  border-radius: 12px;
+  transition: all 0.4s ease;
+}
+
+
+nav a:hover {
+  background: linear-gradient(90deg, #fc466b, #3f5efb);
+  color: #fff;
+  transform: scale(1.15);
+  box-shadow: 0 6px 15px rgba(255, 255, 255, 0.4);
+}
+
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px #00c6ff, 0 0 20px #00c6ff, 0 0 30px #00c6ff;
+  }
+  to {
+    text-shadow: 0 0 20px #0072ff, 0 0 30px #0072ff, 0 0 40px #0072ff;
+  }
+}
