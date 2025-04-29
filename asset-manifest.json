@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.4a5536d8.css",
+    "main.js": "/my_portfolio/static/js/main.a44e60e8.js",
+    "static/media/To_Do_list.png": "/my_portfolio/static/media/To_Do_list.508fec608e79d3283eda.png",
+    "static/media/mini_calendar.png": "/my_portfolio/static/media/mini_calendar.5b57f48633eae9c6043b.png",
+    "static/media/real_time_chat.png": "/my_portfolio/static/media/real_time_chat.ce45419c608d53b0934d.png",
+    "static/media/QR_code.png": "/my_portfolio/static/media/QR_code.e190eea19db25cbc0cb9.png",
+    "static/media/atmosphere_app.png": "/my_portfolio/static/media/atmosphere_app.e9a266e649daaf22d08f.png",
+    "static/media/simple_notes_App.png": "/my_portfolio/static/media/simple_notes_App.34c3e40146728df0034c.png",
+    "static/media/toast_notification.png": "/my_portfolio/static/media/toast_notification.c2e8d7eae0a04a6bf0ee.png",
+    "static/media/qr_code_generator.png": "/my_portfolio/static/media/qr_code_generator.a84380aa7ec0dc249099.png",
+    "static/media/Random_password_app.png": "/my_portfolio/static/media/Random_password_app.614f6a64519159deeace.png",
+    "static/media/simple_web_server.png": "/my_portfolio/static/media/simple_web_server.a3ebd2832d90c0fc7487.png",
+    "static/media/url_shortener.png": "/my_portfolio/static/media/url_shortener.28cc4252856563cdcf0c.png",
+    "static/media/quiz_app.png": "/my_portfolio/static/media/quiz_app.654353d147fc6fe78a40.png",
+    "index.html": "/my_portfolio/index.html",
+    "main.4a5536d8.css.map": "/my_portfolio/static/css/main.4a5536d8.css.map",
+    "main.a44e60e8.js.map": "/my_portfolio/static/js/main.a44e60e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a5536d8.css",
+    "static/js/main.a44e60e8.js"
+  ]
+}
